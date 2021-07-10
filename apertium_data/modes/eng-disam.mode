@@ -1,0 +1,1 @@
+lt-proc -w '/usr/share/apertium/apertium-eng/eng.automorf.bin' | cg-conv -a -l | vislcg3 --trace -g '/usr/share/apertium/apertium-eng/apertium-eng.eng.rlx'
